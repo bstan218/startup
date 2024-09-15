@@ -8,7 +8,7 @@ Intuistry is designed to help beginner computational chemists and cheminformatis
 
 ### Design
 
-![Mock](voterMockUI.jpg)
+![Mock](roughSpec.png)
 
 
 ### Key features
