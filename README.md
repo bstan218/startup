@@ -12,6 +12,8 @@ The specification deliverable section defines what your application will do. The
 
 Have you ever endlessly debated with your friends about where to meet for lunch, or had your team bog down about an important decision that needs to be made. The Voting application makes it so a group of people can pull out their phones, clearly see the options, and pick their top three choices. As each user makes their choices the results are automatically tallied and displayed in realtime to all the other group members. Once everyone locks in their choices the group can move forward with confidence that the best option has been selected.
 
+Intuistry is designed to help beginner computational chemists and cheminformatists familiarize with the variety of modes that chemical data is stored. In order to effectively do computational research with chemical data, there needs to be a basic understanding of the way that molecules can be represented. While this usually requires hours sifting through documentation and literature, Intuistry is a bridge to building this understanding in a natural and fun way. You can easily manipulate SMILES strings and chemical nomenclature, visualizing how they represent chemical data in real time.
+
 ### Design
 
 ![Mock](voterMockUI.jpg)
